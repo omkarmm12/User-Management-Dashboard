@@ -1,0 +1,26 @@
+.red-msg {
+  color: red;
+  font-weight: 600;
+}
+.green-msg {
+  color: green;
+  font-weight: 600;
+}
+
+.table-container {
+  max-height: 70vh; /* Adjust height as needed */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-container thead {
+  position: sticky;
+  top: 0;
+  background: #343a40; /* Bootstrap dark theme */
+  color: white;
+  z-index: 2;
+}

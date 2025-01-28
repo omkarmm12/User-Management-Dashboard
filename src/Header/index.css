@@ -1,0 +1,9 @@
+.navbar {
+  box-shadow: inset 0px -10px 10px -10px #3f4144,
+    inset 0px 10px 10px -10px #3f4144;
+  background-color: white;
+}
+.navbar-brand {
+  font-weight: 700;
+  margin-left: 1rem;
+}
