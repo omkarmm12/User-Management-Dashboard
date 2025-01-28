@@ -32,8 +32,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/user-management.git
-cd user-management
+git clone https://github.com/omkarmm12/User-Management-Dashboard.git
+cd User-Management-Dashboard
 
 Install dependencies:
 
